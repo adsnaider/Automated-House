@@ -1,0 +1,48 @@
+F:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\TaskExecute.exe
+F:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\TaskExecute.pdb
+F:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.exe
+F:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.pdb
+E:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.exe
+E:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.pdb
+I:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.exe
+I:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.pdb
+I:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\TaskExecute.exe
+I:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\TaskExecute.pdb
+I:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.csprojResolveAssemblyReference.cache
+I:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\PortControl.dll
+I:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\PortControl.pdb
+F:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\PortControl.dll
+F:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\PortControl.pdb
+F:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.csprojResolveAssemblyReference.cache
+D:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\TaskExecute.exe
+D:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\TaskExecute.pdb
+D:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\PortControl.dll
+D:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\PortControl.pdb
+D:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.csprojResolveAssemblyReference.cache
+D:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.exe
+D:\ORT Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.pdb
+D:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\TaskExecute.exe
+D:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\TaskExecute.pdb
+D:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\PortControl.dll
+D:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\PortControl.pdb
+D:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.csprojResolveAssemblyReference.cache
+D:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.exe
+D:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.pdb
+I:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.exe
+I:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.pdb
+I:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\TaskExecute.exe
+I:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\TaskExecute.pdb
+I:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\PortControl.dll
+I:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\bin\Debug\PortControl.pdb
+I:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.csprojResolveAssemblyReference.cache
+E:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.exe
+E:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.pdb
+F:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.exe
+F:\ORT_Pendrive\Proyecto\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.pdb
+C:\Users\ester\Downloads\Main\Main\TaskExecute\TaskExecute\bin\Debug\TaskExecute.exe
+C:\Users\ester\Downloads\Main\Main\TaskExecute\TaskExecute\bin\Debug\TaskExecute.pdb
+C:\Users\ester\Downloads\Main\Main\TaskExecute\TaskExecute\bin\Debug\PortControl.dll
+C:\Users\ester\Downloads\Main\Main\TaskExecute\TaskExecute\bin\Debug\PortControl.pdb
+C:\Users\ester\Downloads\Main\Main\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.csprojResolveAssemblyReference.cache
+C:\Users\ester\Downloads\Main\Main\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.exe
+C:\Users\ester\Downloads\Main\Main\TaskExecute\TaskExecute\obj\x86\Debug\TaskExecute.pdb
